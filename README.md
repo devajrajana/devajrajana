@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Electronics & Communication Engineering @ BMSCE | FPGA | VLSI | Digital Design | AI Hardware
 <!--
 **devajrajana/devajrajana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
