@@ -33,7 +33,7 @@ Some of the things I'm currently building and exploring:
 
 ### 🌱 Currently Learning
 
-**Advanced RTL Design → Computer Architecture → FPGA Acceleration → AI Hardware**
+**Advanced RTL Design, Computer Architecture, FPGA Acceleration, AI Hardware**
 
 I enjoy understanding how a system works all the way down to the hardware.
 
