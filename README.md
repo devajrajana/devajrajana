@@ -44,4 +44,3 @@ I enjoy understanding how a system works all the way down to the hardware.
 
 ---
 
-> *Building hardware, one bit at a time.* ⚡
